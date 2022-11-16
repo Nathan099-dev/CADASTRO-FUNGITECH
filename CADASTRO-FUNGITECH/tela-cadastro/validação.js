@@ -1,7 +1,7 @@
 var nome_usuario = nome.value;
 var idade_usuario = idade.value;
 var cidade_usuario = cidade.value;
-var telefone_usuario = telefone,value;
+var telefone_usuario = telefone.value;
 var email_usuario = email.value;
 
 function valida_campo(){
