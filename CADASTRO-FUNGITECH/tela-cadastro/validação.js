@@ -4,7 +4,7 @@ function valida_campo(){
     const cidadeUsuario = cidade.value;
     const telefoneUsuario = telefone.value;
     const emailUsuario = email.value;
-    const senhaUsuario = email.value;
+    const senhaUsuario = senha.value;
 
     if (nomeUsuario.value == '') {
         window.alert('Campo nome, inválido');
